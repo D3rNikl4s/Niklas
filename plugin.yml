@@ -1,0 +1,19 @@
+name: PizNation
+version: 5.5
+main: de.koningjinjin.Main.Main
+author: KoningJinjin
+commands: 
+  heal:
+  shop:
+  staff:
+  help:
+  sun:
+  tag:
+  default:
+  setspawn:
+  spawn:
+  getbow:
+  day:
+  night:
+  a:
+  rain:
